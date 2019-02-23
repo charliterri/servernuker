@@ -2,6 +2,10 @@
 *snorts archie's hair dye* uwu uwu
 
 you need to go to cmd and type py -m pip install -U discord.py
+if that doesn't work then try python -m pip install -U discord.py
+
+**you need python version 3.6.5/3.6.7 or it will not work** (for the cmd you need python 3.6.5 before you do it, and you can't have 3.7 or it won't work)
+
 then you need to invite either https://discordapp.com/api/oauth2/authorize?client_id=547859492864262165&permissions=2146958839&scope=bot
 or https://discordapp.com/api/oauth2/authorize?client_id=547891656331100162&permissions=2146958839&scope=bot
 at the bottom you'll see bot.run
