@@ -58,4 +58,3 @@ async def s(ctx):
  
  
 bot.run ("NTQ3ODkxNjU2MzMxMTAwMTYy.D09XgA.MCBmREma3txRU4LtDsFcQRdsJxY")
-#NTQ3ODU5NDkyODY0MjYyMTY1.D085nw.5MD25ZZqOPoeVjwXRy0Wlf5yBF0
