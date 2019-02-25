@@ -4,7 +4,7 @@
 
 *snorts archie's hair dye* uwu uwu
 
-archie, daisy, and matthew note:
+**archie, daisy, and matthew note:**
 
 you need to go to cmd and type py -m pip install -U discord.py
 if that doesn't work then try python -m pip install -U discord.py
